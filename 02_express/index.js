@@ -84,7 +84,7 @@ app.delete("/products/:id", (req, res) => {
 
     if (index === -1) {
         return res.status(404).send("no product found ")
-    }
+    }   
 
     productData.splice(index, 1)
 
