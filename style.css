@@ -1,0 +1,10 @@
+.name-field {
+  border: black;
+}
+.container{
+    margin-top: 390px;
+}
+.nameinput {
+  width: 800px;
+  height: 60px;
+}
